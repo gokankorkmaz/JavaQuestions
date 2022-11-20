@@ -44,3 +44,14 @@ public class Q1 {
 
 
 }
+
+/*
+ Return a random number from 1-20
+ -ask the user to guess the number
+ -if your guess is larger than the number "your guess should be a smaller number, try again"
+ -if your guess is less than the number "your guess must be a larger number, try again"
+ -When the guess is correct,
+     let's print how many attempts were made with the help of the counter and
+      "Congratulations ..... you found the number in the trial".
+
+ */
