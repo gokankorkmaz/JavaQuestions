@@ -1,6 +1,16 @@
 package H1;
 
+import java.sql.Array;
+
 public class Q2 {
+
+
+    public static void main(String[] args) {
+
+
+    }
+
+
 }
 
 
