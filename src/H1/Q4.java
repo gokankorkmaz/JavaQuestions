@@ -28,10 +28,6 @@ public class Q4 {
 
 }
 
-
-
-
-
 /*
 Create a 100-element integer array of random numbers.
 Print the mean of the numbers in the array.
